@@ -5,7 +5,19 @@
 [![Twitter: Akshjain99](https://img.shields.io/twitter/follow/Akshjain99?style=social)](https://twitter.com/Akshjain99)
 [![Medium Badge](https://img.shields.io/badge/-@Akshit%20Jain-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Akshjain99)](https://medium.com/@Akshjain99)
   
-I develop software, love build technical communities, open source Contributor!
+Software Engineer | Full Stack Developer
+
+Experienced in Angular, React.js, Django, and PostgreSQL, I specialize in developing scalable solutions that optimize performance and user engagement:
+
+Expertise in building frontend applications with Angular and React.js, enhancing user interfaces and ensuring seamless user experiences.
+
+Proficient in backend development using Django and PostgreSQL, implementing robust APIs and efficient data management solutions.
+
+Skilled in microfrontend architecture, integrating tools like AGGrid and Chart.js for enhanced data visualization and user interaction.
+
+Experienced in implementing authentication and authorization systems like Keycloak for secure user management.
+
+Passionate about leveraging technology to innovate and solve real-world challenges. Let's collaborate to create impactful software solutions!
 
 
 [![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshjain99&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Akshjain99/github-readme-stats)
