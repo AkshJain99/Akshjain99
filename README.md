@@ -6,18 +6,26 @@
 [![Medium Badge](https://img.shields.io/badge/-@Akshit%20Jain-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Akshjain99)](https://medium.com/@Akshjain99)
   
 Software Engineer | Full Stack Developer
+Experienced in Angular, React.js, Node.js, Django, and PostgreSQL, I specialize in developing scalable, high-performance solutions that optimize user engagement and system efficiency.
 
-Experienced in Angular, React.js, Django, and PostgreSQL, I specialize in developing scalable solutions that optimize performance and user engagement:
+✅ Frontend Development:
 
-Expertise in building frontend applications with Angular and React.js, enhancing user interfaces and ensuring seamless user experiences.
+Expertise in building dynamic and responsive applications using Angular and React.js.
+Enhancing user interfaces and experiences with optimized performance.
+Integration of AG Grid, Chart.js, and other visualization tools for data-driven applications.
+✅ Backend & API Development:
 
-Proficient in backend development using Django and PostgreSQL, implementing robust APIs and efficient data management solutions.
+Proficient in Django and NestJS for scalable and efficient backend solutions.
+Experienced in building RESTful APIs and GraphQL services.
+Strong database management skills with PostgreSQL and other relational databases.
+✅ Cloud & Serverless Architecture:
 
-Skilled in microfrontend architecture, integrating tools like AGGrid and Chart.js for enhanced data visualization and user interaction.
+Skilled in Node.js and AWS Lambda for building serverless and cost-efficient applications.
+Experience with AWS API Gateway, DynamoDB, and Serverless Framework for cloud-native solutions.
+✅ Security & Authentication:
 
-Experienced in implementing authentication and authorization systems like Keycloak for secure user management.
-
-Passionate about leveraging technology to innovate and solve real-world challenges. Let's collaborate to create impactful software solutions!
+Implementing authentication & authorization using Keycloak, JWT, and OAuth2.
+Ensuring secure and scalable user management in enterprise applications.
 
 
 [![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshjain99&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Akshjain99/github-readme-stats)
