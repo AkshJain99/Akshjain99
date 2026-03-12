@@ -15,7 +15,7 @@ Enhancing user interfaces and experiences with optimized performance.
 Integration of AG Grid, Chart.js, and other visualization tools for data-driven applications.
 ✅ Backend & API Development:
 
-Proficient in Django and NestJS for scalable and efficient backend solutions.
+Proficient in NestJS (Node) for scalable and efficient backend solutions.
 Experienced in building RESTful APIs and GraphQL services.
 Strong database management skills with PostgreSQL and other relational databases.
 ✅ Cloud & Serverless Architecture:
