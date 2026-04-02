@@ -93,7 +93,7 @@ akshit = {
 > Smart tax calculator for Indian investors. Handles STCG, LTCG, ELSS, equity & debt funds instantly.
 > `React` `Tax Logic` `Vercel`
 
-### 🤖 [BreakingBites News Bot](https://github.com/AkshJain99)  — Automated News Bot
+### 🤖 [BreakingBites News Bot](https://breakingnewsbot.netlify.app/)  — Automated News Bot
 > Python bot scraping 9 trusted RSS feeds, auto-posting India & Tech news daily via GitHub Actions. Zero manual effort.
 > `Python` `RSS` `GitHub Actions` `Automation`
 
