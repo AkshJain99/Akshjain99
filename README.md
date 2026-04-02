@@ -30,7 +30,7 @@ akshit = {
     "role":       "Senior Full-Stack Engineer @ Clarivate",
     "location":   "India 🇮🇳",
     "experience": "5+ years",
-    "focus":      ["Scalable Systems", "React", "Python", "AWS"],
+    "focus":      ["Scalable Systems", "React", "Node", "AWS"],
     "available":  True  # open to freelance & consulting
 }
 ```
